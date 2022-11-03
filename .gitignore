@@ -1,0 +1,6 @@
+# tmp ignore
+*.tmp
+
+# hakemisto ignore
+pycache/
+.pytest_cache/
