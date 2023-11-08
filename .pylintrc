@@ -4,9 +4,9 @@ ignore=tests
 
 [MESSAGE CONTROL]
 
-disable=raw-checker-failed,
-        bad-inline-option,
-        locally-disabled,
+#disable=raw-checker-failed,
+       # bad-inline-option,
+       # locally-disabled,
         file-ignored,
         suppressed-message,
         useless-suppression,
